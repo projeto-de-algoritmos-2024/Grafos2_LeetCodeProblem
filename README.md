@@ -27,6 +27,7 @@ Screenshot da Questão 1293:<br>
 ## Instalação 
 **Linguagem**: Python (Questões 1293 e 1584).<br>
 **Framework**: Não há frameworks para este projeto.<br>
+Para a execução do projeto deve ser instalado o python 3.11.4 ou superior.
 Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
 ## Uso 
