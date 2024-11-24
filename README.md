@@ -32,9 +32,20 @@ Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
 ## Uso 
 Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Para rodar as questões 1584 e 1293 deste projeto, basta entrar na raiz do projeto e executar o arquivo referente a questão que se deseja avaliar, por exemplo:
+```
+python 1584.MinCostToConnectAllPoints.py
+```
+```
+python 1293.ShortestPathInAGridWithObstaclesElimination.py
+```
 
 ## Outros 
 Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+Desconsiderar a função </br>main()<br> dos arquivos .py ao tentar submeter ao leetcode. Esta função foi implementada apenas com o intuito de testar casos base.
+
+## Vídeo
+Disponível em: (link)
 
 
 
