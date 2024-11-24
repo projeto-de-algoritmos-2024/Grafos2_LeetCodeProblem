@@ -10,7 +10,7 @@
 | 22/1008024  |  Eduardo Matheus dos Santos Sandes |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+O projeto consiste em resolver 4 questões da plataforma LeetCode, sendo duas dífíceis e duas médias. A definição de fácil, médio e difícil é concebida pela plataforma.
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
