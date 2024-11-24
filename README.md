@@ -7,7 +7,7 @@
 |Matrícula | Aluno |
 | -- | -- |
 | 221007869  |  Artur Henrique Holz Bartz |
-| xx/xxxxxx  |  Eduardo Matheus dos Santos Sandes |
+| 221008024  |  Eduardo Matheus dos Santos Sandes |
 
 ## Sobre 
 Descreva os objetivos do seu projeto e como ele funciona. 
