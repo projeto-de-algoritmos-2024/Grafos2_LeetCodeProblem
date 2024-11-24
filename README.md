@@ -16,7 +16,7 @@ Questões Implementadas:
 Questão 1584. Min Cost to Connect All Points (Dificuldade: Média). Disponível em : (https://leetcode.com/problems/min-cost-to-connect-all-points/description/);<br>
 Questão 1293. Shortest Path in a Grid with Obstacles Elimination (Dificuldade : Difícil). Disponível em : (https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/description/);<br>
 
-Para o desenvolvimento da questão média 1584 foi utilizado o algoritmo de Prim e a linguagem python. Para o desenvolvimento da questão difícil 1293 foi utilizado o algoritmo de Dijkstra. Em ambos os casos houve a utilização dos algoritmos abordados em sala de aula com pequenas modificações para estarem de acordo com a solução do problema proposto.
+Para o desenvolvimento da questão média 1584 foi utilizado o algoritmo de Prim. Já para o desenvolvimento da questão difícil 1293 foi utilizado o algoritmo de Dijkstra. Em ambos os casos a linguagem utilizada foi Python e, além disso, houve a utilização dos algoritmos abordados em sala de aula com pequenas modificações para estarem de acordo com a solução do problema proposto, porém mantendo-se dentro do conteúdo proposto em sala de aula.
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
