@@ -19,7 +19,9 @@ Questão 1293. Shortest Path in a Grid with Obstacles Elimination (Dificuldade :
 Para o desenvolvimento da questão média 1584 foi utilizado o algoritmo de Prim. Já para o desenvolvimento da questão difícil 1293 foi utilizado o algoritmo de Dijkstra. Em ambos os casos a linguagem utilizada foi Python e, além disso, houve a utilização dos algoritmos abordados em sala de aula com pequenas modificações para estarem de acordo com a solução do problema proposto, porém mantendo-se dentro do conteúdo proposto em sala de aula.
 
 ## Screenshots
+Screenshot da Questão 1584:<br>
 ![Screenshot Questão 1584](images/questao1584.jpeg)
+Screenshot da Questão 1293:<br>
 ![Screenshot Questão 1293](images/questao1293.jpeg)
 
 ## Instalação 
