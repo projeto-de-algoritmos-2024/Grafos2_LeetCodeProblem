@@ -23,6 +23,8 @@ Screenshot da Questão 1584:<br>
 ![Screenshot Questão 1584](images/questao1584.jpeg)
 Screenshot da Questão 1293:<br>
 ![Screenshot Questão 1293](images/questao1293.jpeg)
+Screenshot da Questão 743:<br>
+![Screenshot Questão 743](images/questao743.png)
 
 ## Instalação 
 **Linguagem**: Python (Questões 1293 e 1584).<br>
@@ -32,12 +34,15 @@ Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
 ## Uso 
 Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.<br>
-Para rodar as questões 1584 e 1293 deste projeto, basta entrar na raiz do projeto e executar o arquivo referente a questão que se deseja avaliar, por exemplo:
+Para rodar as questões 743, 1584 e 1293 deste projeto, basta entrar na raiz do projeto e executar o arquivo referente a questão que se deseja avaliar, por exemplo:
 ```
 python 1584.MinCostToConnectAllPoints.py
 ```
 ```
 python 1293.ShortestPathInAGridWithObstaclesElimination.py
+```
+```
+python 743.NetworkDelayTime.py
 ```
 
 ## Outros 
