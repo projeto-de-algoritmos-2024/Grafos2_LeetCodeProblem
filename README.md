@@ -55,7 +55,7 @@ Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.<br>
 Desconsiderar a função </br>main()<br> dos arquivos .py ao tentar submeter ao leetcode. Esta função foi implementada apenas com o intuito de testar casos base.
 
 ## Vídeo
-Disponível em: (link)
+Disponível em: https://youtu.be/9urYsvIzmPY?si=tszJqwb2vZ31KE6Y
 
 
 
