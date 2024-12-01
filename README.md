@@ -25,6 +25,8 @@ Screenshot da Questão 1293:<br>
 ![Screenshot Questão 1293](images/questao1293.jpeg)
 Screenshot da Questão 743:<br>
 ![Screenshot Questão 743](images/questao743.png)
+Screenshot da Questão 2642:<br>
+![Screenshot Questão 2642](images/questao2642.png)
 
 ## Instalação 
 **Linguagem**: Python (Questões 1293 e 1584).<br>
@@ -43,6 +45,9 @@ python 1293.ShortestPathInAGridWithObstaclesElimination.py
 ```
 ```
 python 743.NetworkDelayTime.py
+```
+```
+python 2642.DesignGraphWithShortestPathCalculator.py
 ```
 
 ## Outros 
